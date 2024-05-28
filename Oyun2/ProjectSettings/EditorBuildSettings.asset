@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: cf123531ae8624d8a95f53349d8b9702
+  - enabled: 1
+    path: Assets/Scenes/Demo.unity
+    guid: 144bbb0ad897b4b44acacf5ec8de2e60
+  - enabled: 0
+    path: Assets/Scenes/Gorevler.unity
+    guid: 263ba1f1b24614842a0e016abbc1da9e
+  - enabled: 1
+    path: Assets/Scenes/Yapanlar.unity
+    guid: 1f5afd16d2def446c9c12c5f9ed4c139
+  - enabled: 1
+    path: "Assets/Scenes/Nas\u0131l.unity"
+    guid: e52ae3b8574ee4bc287a67b58d801d47
+  - enabled: 1
+    path: Assets/Scenes/Bitis_Sahnesi.unity
+    guid: 2c830f690b39a4d73a59a1459be21e35
+  - enabled: 1
+    path: Assets/Scenes/Bitis2.unity
+    guid: 5fc99d15c01124ede9bfe18bca576f68
+  m_configObjects: {}
